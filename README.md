@@ -1,4 +1,9 @@
-content-2
-=========
+# Content Team 2
 
-Content group 2 project
+One paragraph description of the project.
+
+## Team Structure
+
+@username: role
+@username: role
+@username: role
